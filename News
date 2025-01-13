@@ -1,0 +1,14 @@
+{
+    "news": [
+        {
+            "title": "Nuovo Evento",
+            "description": "Partecipa al nostro nuovo evento e vinci premi esclusivi!",
+            "date": "2025-01-13"
+        },
+        {
+            "title": "Aggiornamento di Contenuto",
+            "description": "Scopri le nuove missioni e sfide disponibili nel gioco.",
+            "date": "2025-01-10"
+        }
+    ]
+}
