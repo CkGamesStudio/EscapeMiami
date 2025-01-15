@@ -1,0 +1,4 @@
+{
+    "bonusTime": "2025-01-15T08:00:00Z",  // Ora stabilita per il bonus giornaliero (in formato ISO 8601)
+    "bonusAmount": 100  // Quantità di bonus
+}
